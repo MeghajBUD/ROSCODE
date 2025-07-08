@@ -1,0 +1,21 @@
+[0.661s] Invoking command in '/home/patchy/lab2_ws/safety_node': PYTHONPATH=/home/patchy/lab2_ws/build/safety_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/patchy/lab2_ws/install/safety_node/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/safety_node build --build-base /home/patchy/lab2_ws/build/safety_node/build install --record /home/patchy/lab2_ws/build/safety_node/install.log --install-scripts $base/lib/safety_node --single-version-externally-managed install_data
+[0.844s] running egg_info
+[0.844s] writing ../build/safety_node/safety_node.egg-info/PKG-INFO
+[0.844s] writing dependency_links to ../build/safety_node/safety_node.egg-info/dependency_links.txt
+[0.845s] writing entry points to ../build/safety_node/safety_node.egg-info/entry_points.txt
+[0.845s] writing requirements to ../build/safety_node/safety_node.egg-info/requires.txt
+[0.845s] writing top-level names to ../build/safety_node/safety_node.egg-info/top_level.txt
+[0.872s] reading manifest file '../build/safety_node/safety_node.egg-info/SOURCES.txt'
+[0.874s] writing manifest file '../build/safety_node/safety_node.egg-info/SOURCES.txt'
+[0.874s] running build
+[0.874s] running build_py
+[0.874s] running install
+[0.874s] running install_lib
+[0.876s] running install_data
+[0.876s] running install_egg_info
+[0.877s] removing '/home/patchy/lab2_ws/install/safety_node/lib/python3.8/site-packages/safety_node-0.0.0-py3.8.egg-info' (and everything under it)
+[0.877s] Copying ../build/safety_node/safety_node.egg-info to /home/patchy/lab2_ws/install/safety_node/lib/python3.8/site-packages/safety_node-0.0.0-py3.8.egg-info
+[0.878s] running install_scripts
+[0.888s] Installing emergency_break0 script to /home/patchy/lab2_ws/install/safety_node/lib/safety_node
+[0.888s] writing list of installed files to '/home/patchy/lab2_ws/build/safety_node/install.log'
+[0.900s] Invoked command in '/home/patchy/lab2_ws/safety_node' returned '0': PYTHONPATH=/home/patchy/lab2_ws/build/safety_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/patchy/lab2_ws/install/safety_node/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/safety_node build --build-base /home/patchy/lab2_ws/build/safety_node/build install --record /home/patchy/lab2_ws/build/safety_node/install.log --install-scripts $base/lib/safety_node --single-version-externally-managed install_data

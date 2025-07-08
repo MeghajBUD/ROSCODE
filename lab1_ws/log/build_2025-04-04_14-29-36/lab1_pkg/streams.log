@@ -1,0 +1,25 @@
+[0.621s] Invoking command in '/home/patchy/lab1_ws/lab1_pkg': PYTHONPATH=/home/patchy/lab1_ws/build/lab1_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/patchy/lab1_ws/install/lab1_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/lab1_pkg build --build-base /home/patchy/lab1_ws/build/lab1_pkg/build install --record /home/patchy/lab1_ws/build/lab1_pkg/install.log --install-scripts $base/lib/lab1_pkg --single-version-externally-managed install_data
+[0.800s] running egg_info
+[0.800s] writing ../build/lab1_pkg/lab1_pkg.egg-info/PKG-INFO
+[0.800s] writing dependency_links to ../build/lab1_pkg/lab1_pkg.egg-info/dependency_links.txt
+[0.801s] writing entry points to ../build/lab1_pkg/lab1_pkg.egg-info/entry_points.txt
+[0.801s] writing requirements to ../build/lab1_pkg/lab1_pkg.egg-info/requires.txt
+[0.801s] writing top-level names to ../build/lab1_pkg/lab1_pkg.egg-info/top_level.txt
+[0.826s] reading manifest file '../build/lab1_pkg/lab1_pkg.egg-info/SOURCES.txt'
+[0.826s] writing manifest file '../build/lab1_pkg/lab1_pkg.egg-info/SOURCES.txt'
+[0.827s] running build
+[0.827s] running build_py
+[0.827s] copying lab1_pkg/talker.py -> /home/patchy/lab1_ws/build/lab1_pkg/build/lib/lab1_pkg
+[0.827s] running install
+[0.827s] running install_lib
+[0.827s] copying /home/patchy/lab1_ws/build/lab1_pkg/build/lib/lab1_pkg/talker.py -> /home/patchy/lab1_ws/install/lab1_pkg/lib/python3.8/site-packages/lab1_pkg
+[0.828s] byte-compiling /home/patchy/lab1_ws/install/lab1_pkg/lib/python3.8/site-packages/lab1_pkg/talker.py to talker.cpython-38.pyc
+[0.829s] running install_data
+[0.829s] running install_egg_info
+[0.830s] removing '/home/patchy/lab1_ws/install/lab1_pkg/lib/python3.8/site-packages/lab1_pkg-0.0.0-py3.8.egg-info' (and everything under it)
+[0.830s] Copying ../build/lab1_pkg/lab1_pkg.egg-info to /home/patchy/lab1_ws/install/lab1_pkg/lib/python3.8/site-packages/lab1_pkg-0.0.0-py3.8.egg-info
+[0.831s] running install_scripts
+[0.848s] Installing relay script to /home/patchy/lab1_ws/install/lab1_pkg/lib/lab1_pkg
+[0.849s] Installing talker script to /home/patchy/lab1_ws/install/lab1_pkg/lib/lab1_pkg
+[0.849s] writing list of installed files to '/home/patchy/lab1_ws/build/lab1_pkg/install.log'
+[0.861s] Invoked command in '/home/patchy/lab1_ws/lab1_pkg' returned '0': PYTHONPATH=/home/patchy/lab1_ws/build/lab1_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/patchy/lab1_ws/install/lab1_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/lab1_pkg build --build-base /home/patchy/lab1_ws/build/lab1_pkg/build install --record /home/patchy/lab1_ws/build/lab1_pkg/install.log --install-scripts $base/lib/lab1_pkg --single-version-externally-managed install_data
